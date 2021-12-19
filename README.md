@@ -1,9 +1,4 @@
 ## <p align="center">Hello there!</p>
-<p align="center">
-  <img src="./assets/coffee-nobg.png" />
-  <br />
-  Artwork made by <a href="https://twitter.com/JoyfulTora">@JoyfulTora</a> on Twitter!
-</p>
 
 -----
 
