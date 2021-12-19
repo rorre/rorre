@@ -1,7 +1,5 @@
 ## <p align="center">Hello there!</p>
 
------
-
 ### Intro
 
 The name's Ren/Shizu. At first programming is simply just my hobby and this is where I usually put all my hobby projects in.
